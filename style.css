@@ -25,10 +25,11 @@ textarea{
     font-size: 30px;
     text-align: center;
     opacity: 60%;
+    font: cursive;
 }
 
 #output{
-    display:block;
+    position:inherit;
     margin: auto;
     opacity: 70%;
     background-color: rgb(242, 241, 241);
