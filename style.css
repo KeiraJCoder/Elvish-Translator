@@ -1,0 +1,66 @@
+body{
+    background-image: url("LOTR.png");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+}
+
+#input{
+    position: flex;
+    border: 2px solid black;
+    width: 500px;
+    height: 100px;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    font-family: cursive;
+}
+textarea{
+    font-size: 30px;
+    text-align: center;
+    opacity: 60%;
+}
+
+#output{
+    text-align: center;
+    opacity: 70%;
+    background-color: rgb(242, 241, 241);
+    position: flex;
+    border: 2px solid black;
+    width: 500px;
+    height: 100px;
+    padding: 1rem;
+    margin-left: 31%;
+    margin-top: 15px;
+    border-radius: 10px;
+    font-family: cursive;
+    background-image: url("sindarin.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+
+#btn-translate{
+    text-align: center;
+    padding: 1rem;
+    border-radius: 10px;
+    font-family: cursive;
+}
+
+#bgFooter{
+    text-align: center;
+    font-family: cursive;
+}
+
+p {
+    color: aliceblue;
+    font-size: 20px;
+}
