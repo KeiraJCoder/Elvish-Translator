@@ -29,10 +29,8 @@ textarea{
 
 #output{
     margin: auto;
-    text-align: center;
     opacity: 70%;
     background-color: rgb(242, 241, 241);
-    position: flex;
     border: 2px solid black;
     width: 500px;
     height: 100px;
@@ -40,10 +38,6 @@ textarea{
     padding: 1rem;
     border-radius: 10px;
     font-family: cursive;
-    background-size: 50%;
-    background-repeat: no-repeat;
-    background-position: center;
-    
 
 }
 
