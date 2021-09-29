@@ -28,6 +28,7 @@ textarea{
 }
 
 #output{
+    margin: auto;
     text-align: center;
     opacity: 70%;
     background-color: rgb(242, 241, 241);
@@ -35,9 +36,8 @@ textarea{
     border: 2px solid black;
     width: 500px;
     height: 100px;
+    margin-top:2%;
     padding: 1rem;
-    margin-left: 39%;
-    margin-top: 15px;
     border-radius: 10px;
     font-family: cursive;
     background-size: 50%;
